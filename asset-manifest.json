@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/google-fonts-project/static/css/main.bcc9b369.css",
-    "main.js": "/google-fonts-project/static/js/main.672fbe48.js",
+    "main.css": "/google-fonts-project/static/css/main.eac9e617.css",
+    "main.js": "/google-fonts-project/static/js/main.7950f30c.js",
     "static/js/787.7dc42d85.chunk.js": "/google-fonts-project/static/js/787.7dc42d85.chunk.js",
     "index.html": "/google-fonts-project/index.html",
-    "main.bcc9b369.css.map": "/google-fonts-project/static/css/main.bcc9b369.css.map",
-    "main.672fbe48.js.map": "/google-fonts-project/static/js/main.672fbe48.js.map",
+    "main.eac9e617.css.map": "/google-fonts-project/static/css/main.eac9e617.css.map",
+    "main.7950f30c.js.map": "/google-fonts-project/static/js/main.7950f30c.js.map",
     "787.7dc42d85.chunk.js.map": "/google-fonts-project/static/js/787.7dc42d85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcc9b369.css",
-    "static/js/main.672fbe48.js"
+    "static/css/main.eac9e617.css",
+    "static/js/main.7950f30c.js"
   ]
 }
